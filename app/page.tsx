@@ -11,7 +11,7 @@ import jsonPermissions from "./data-pythnet.json"
 
 function getData(m: number, z: number, n: number, y: number) {
   let data = {}
-  let adjustedM = m  * (n / 530)
+  let adjustedM = m
   for (let feed of Object.keys(jsonPermissions)) {
     let numberOfPublishers = jsonPermissions[feed].priceAccounts[0].publishers.length
     for (let publisher of jsonPermissions[feed].priceAccounts[0].publishers) {
@@ -65,15 +65,17 @@ export default function Component() {
       fill: getColorFromName(item.name)
     })).sort((a, b) => b.value - a.value);
 
-    const sum = calculatedData.reduce((acc, item) => acc + item.value as number, 0) * y/100;
+    const tvl = calculatedData.reduce((acc, item) => acc + item.value as number, 0);
+    const rewards = y/100  * (n / 530) * tvl
 
     return {
       bars: calculatedData,
-      sum: sum
+      rewards: rewards,
+      tvl: tvl
     };
   }, [m, z, n, y])
 
-  const gaugePercentage = Math.min((data.sum / 100000000) * 100, 100);
+  const gaugePercentage = Math.min((data.rewards / 100000000) * 100, 100);
 
   return (
     <Card className="w-full max-w-3xl mx-auto">
@@ -131,8 +133,8 @@ export default function Component() {
           </div>
           <div className="space-y-2">
             <div className="flex justify-between">
-              <Label>Total rewards distributed: {formatNumber(data.sum)}</Label>
-              <Label>Number of publishers: {data.bars.length}</Label>
+              <Label>Total rewards distributed: {formatNumber(data.rewards)}</Label>
+              <Label>TVL: {formatNumber(data.tvl)}</Label>
             </div>
             <Progress 
               value={gaugePercentage} 
