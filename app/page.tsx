@@ -57,6 +57,7 @@ export default function Component() {
   const [z, setZ] = useState(32)
   const [n, setN] = useState(500)
   const [y, setY] = useState(50)
+  const [d, setD] = useState(50)
 
   const data = useMemo(() => {
     const calculatedData = getData(m,z,n,y).map(item => ({
@@ -130,8 +131,27 @@ export default function Component() {
                 onValueChange={(values) => setY(values[0])}
               />
             </div>
+            <div className="grid gap-2">
+              <Label htmlFor="d-slider">D: {d}%</Label>
+              <Slider
+                id="d-slider"
+                min={0}
+                max={100}
+                step={1}
+                value={[d]}
+                onValueChange={(values) => setD(values[0])}
+              />
+            </div>
           </div>
           <div className="space-y-2">
+          <div className="flex justify-between">
+              <Label>Max publisher rewards (unstaked): {formatNumber(data.bars[0].value * (y/100) * (d/100))}</Label>
+              <Label>Max publisher rewards (staked): {formatNumber(data.bars[0].value * y/100)}</Label>
+            </div>
+            <div className="flex justify-between">
+              <Label>Median publisher rewards (unstaked): {formatNumber(data.bars[Math.floor(data.bars.length/2)].value * (y/100) * (d/100))}</Label>
+              <Label>Median publisher rewards (staked): {formatNumber(data.bars[Math.floor(data.bars.length/2)].value * (y/100))}</Label>
+            </div>
             <div className="flex justify-between">
               <Label>Total rewards distributed: {formatNumber(data.rewards)}</Label>
               <Label>TVL: {formatNumber(data.tvl)}</Label>
