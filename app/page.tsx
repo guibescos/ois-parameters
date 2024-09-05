@@ -88,7 +88,7 @@ export default function Component() {
         <div className="space-y-8">
           <div className="space-y-4">
             <div className="grid gap-2">
-              <Label htmlFor="m-slider">M: {formatNumber(m)}</Label>
+              <Label htmlFor="m-slider">M (stake cap multiplier): {formatNumber(m)}</Label>
               <Slider
                 id="m-slider"
                 min={0}
@@ -110,7 +110,7 @@ export default function Component() {
               />
             </div>
             <div className="grid gap-2">
-              <Label htmlFor="n-slider">N: {formatNumber(n)}</Label>
+              <Label htmlFor="n-slider">N (number of symbols): {formatNumber(n)}</Label>
               <Slider
                 id="n-slider"
                 min={1}
@@ -121,7 +121,7 @@ export default function Component() {
               />
             </div>
             <div className="grid gap-2">
-              <Label htmlFor="y-slider">Y: {y}%</Label>
+              <Label htmlFor="y-slider">Y (stake yield rate percentage): {y}%</Label>
               <Slider
                 id="y-slider"
                 min={0}
@@ -132,7 +132,7 @@ export default function Component() {
               />
             </div>
             <div className="grid gap-2">
-              <Label htmlFor="d-slider">D: {d}%</Label>
+              <Label htmlFor="d-slider">D (delegation fee percentage): {d}%</Label>
               <Slider
                 id="d-slider"
                 min={0}
