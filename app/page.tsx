@@ -23,7 +23,7 @@ function getData(m: number, z: number, n: number, y: number) {
       }
     }
   }
-  return Object.entries(data).filter(([key, value]) => (key !="HUZu4xMSHbxTWbkXR6jkGdjvDPJLjrpSNXSoUFBRgjWs")).map(([key, value]) => ({ name: key, value: value }))
+  return Object.entries(data).map(([key, value]) => ({ name: key, value: value }))
 
 }
 

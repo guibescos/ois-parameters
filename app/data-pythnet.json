@@ -24,7 +24,6 @@
           "DTimbkrssEMaQEPiLC5SmbverSbcEQXJsN7GGxYFfdgo",
           "EKZYBqisdcsn3shN1rQRuWTzH3iqMbj1dxFtDFmrBi8o",
           "FR19oB2ePko2haah8yP4fhTycxitxkVQTxk3tssxX1Ce",
-          "HUZu4xMSHbxTWbkXR6jkGdjvDPJLjrpSNXSoUFBRgjWs",
           "JTmFx5zX9mM94itfk2nQcJnQQDPjcv4UPD7SYj6xDCV"
         ]
       }
@@ -55,7 +54,6 @@
           "DTimbkrssEMaQEPiLC5SmbverSbcEQXJsN7GGxYFfdgo",
           "EKZYBqisdcsn3shN1rQRuWTzH3iqMbj1dxFtDFmrBi8o",
           "FR19oB2ePko2haah8yP4fhTycxitxkVQTxk3tssxX1Ce",
-          "HUZu4xMSHbxTWbkXR6jkGdjvDPJLjrpSNXSoUFBRgjWs",
           "JTmFx5zX9mM94itfk2nQcJnQQDPjcv4UPD7SYj6xDCV"
         ]
       }
@@ -86,7 +84,6 @@
           "DTimbkrssEMaQEPiLC5SmbverSbcEQXJsN7GGxYFfdgo",
           "EKZYBqisdcsn3shN1rQRuWTzH3iqMbj1dxFtDFmrBi8o",
           "FR19oB2ePko2haah8yP4fhTycxitxkVQTxk3tssxX1Ce",
-          "HUZu4xMSHbxTWbkXR6jkGdjvDPJLjrpSNXSoUFBRgjWs",
           "JTmFx5zX9mM94itfk2nQcJnQQDPjcv4UPD7SYj6xDCV"
         ]
       }
@@ -107,7 +104,8 @@
         "maxLatency": 0,
         "minPub": 255,
         "publishers": [
-          "HUZu4xMSHbxTWbkXR6jkGdjvDPJLjrpSNXSoUFBRgjWs"
+          "3ZoSb6GSxzhkhy6muoRvPukUCzHnN7dwVhXNda2WDsDX",
+          "DTimbkrssEMaQEPiLC5SmbverSbcEQXJsN7GGxYFfdgo"
         ]
       }
     ]
@@ -137,7 +135,6 @@
           "DTimbkrssEMaQEPiLC5SmbverSbcEQXJsN7GGxYFfdgo",
           "EKZYBqisdcsn3shN1rQRuWTzH3iqMbj1dxFtDFmrBi8o",
           "FR19oB2ePko2haah8yP4fhTycxitxkVQTxk3tssxX1Ce",
-          "HUZu4xMSHbxTWbkXR6jkGdjvDPJLjrpSNXSoUFBRgjWs",
           "JTmFx5zX9mM94itfk2nQcJnQQDPjcv4UPD7SYj6xDCV"
         ]
       }
@@ -168,7 +165,6 @@
           "DTimbkrssEMaQEPiLC5SmbverSbcEQXJsN7GGxYFfdgo",
           "EKZYBqisdcsn3shN1rQRuWTzH3iqMbj1dxFtDFmrBi8o",
           "FR19oB2ePko2haah8yP4fhTycxitxkVQTxk3tssxX1Ce",
-          "HUZu4xMSHbxTWbkXR6jkGdjvDPJLjrpSNXSoUFBRgjWs",
           "JTmFx5zX9mM94itfk2nQcJnQQDPjcv4UPD7SYj6xDCV"
         ]
       }
@@ -199,7 +195,6 @@
           "DTimbkrssEMaQEPiLC5SmbverSbcEQXJsN7GGxYFfdgo",
           "EKZYBqisdcsn3shN1rQRuWTzH3iqMbj1dxFtDFmrBi8o",
           "FR19oB2ePko2haah8yP4fhTycxitxkVQTxk3tssxX1Ce",
-          "HUZu4xMSHbxTWbkXR6jkGdjvDPJLjrpSNXSoUFBRgjWs",
           "JTmFx5zX9mM94itfk2nQcJnQQDPjcv4UPD7SYj6xDCV"
         ]
       }
@@ -637,9 +632,7 @@
         "expo": -8,
         "maxLatency": 0,
         "minPub": 255,
-        "publishers": [
-          "HUZu4xMSHbxTWbkXR6jkGdjvDPJLjrpSNXSoUFBRgjWs"
-        ]
+        "publishers": []
       }
     ]
   },
@@ -1315,9 +1308,7 @@
         "expo": -8,
         "maxLatency": 0,
         "minPub": 255,
-        "publishers": [
-          "HUZu4xMSHbxTWbkXR6jkGdjvDPJLjrpSNXSoUFBRgjWs"
-        ]
+        "publishers": []
       }
     ]
   },
@@ -1443,9 +1434,7 @@
         "expo": -8,
         "maxLatency": 0,
         "minPub": 255,
-        "publishers": [
-          "HUZu4xMSHbxTWbkXR6jkGdjvDPJLjrpSNXSoUFBRgjWs"
-        ]
+        "publishers": []
       }
     ]
   },
@@ -1464,7 +1453,7 @@
         "address": "Hc3esyF6xUwTKhrV7uSJs7reMUCvURdkkubEbdPNP5vy",
         "expo": -8,
         "maxLatency": 0,
-        "minPub": 255,
+        "minPub": 3,
         "publishers": [
           "3ZoSb6GSxzhkhy6muoRvPukUCzHnN7dwVhXNda2WDsDX",
           "4Y3NV1TJFPdkKSPGZJqBZXSEygLtDgFKueco8324mxfV",
@@ -1477,9 +1466,7 @@
           "Ca6K4GsFtVpd2mJuEXER8HqNJYXh1YbB8PWP9LruTcVT",
           "CfVkYofcLC1iVBcYFzgdYPeiX25SVRmWvBQVHorP1A3y",
           "FBpNUB6YkYSoDhaSdyPnU8966Kp2FPTp2rGKaqXK1zwR",
-          "GdHd8HjqX3we9WcKth1HkHUD9r8kCSSYuFfR1sb1v3nH",
-          "HUZu4xMSHbxTWbkXR6jkGdjvDPJLjrpSNXSoUFBRgjWs",
-          "JTmFx5zX9mM94itfk2nQcJnQQDPjcv4UPD7SYj6xDCV"
+          "GdHd8HjqX3we9WcKth1HkHUD9r8kCSSYuFfR1sb1v3nH"
         ]
       }
     ]
@@ -1837,7 +1824,7 @@
         "address": "Gegp5k23g3eaYj8YP958nYHWpJB7TnwwzeCuYA4DMVqi",
         "expo": -8,
         "maxLatency": 0,
-        "minPub": 255,
+        "minPub": 3,
         "publishers": [
           "3ZoSb6GSxzhkhy6muoRvPukUCzHnN7dwVhXNda2WDsDX",
           "4Y3NV1TJFPdkKSPGZJqBZXSEygLtDgFKueco8324mxfV",
@@ -1850,9 +1837,7 @@
           "Ca6K4GsFtVpd2mJuEXER8HqNJYXh1YbB8PWP9LruTcVT",
           "CfVkYofcLC1iVBcYFzgdYPeiX25SVRmWvBQVHorP1A3y",
           "FBpNUB6YkYSoDhaSdyPnU8966Kp2FPTp2rGKaqXK1zwR",
-          "GdHd8HjqX3we9WcKth1HkHUD9r8kCSSYuFfR1sb1v3nH",
-          "HUZu4xMSHbxTWbkXR6jkGdjvDPJLjrpSNXSoUFBRgjWs",
-          "JTmFx5zX9mM94itfk2nQcJnQQDPjcv4UPD7SYj6xDCV"
+          "GdHd8HjqX3we9WcKth1HkHUD9r8kCSSYuFfR1sb1v3nH"
         ]
       }
     ]
@@ -3173,9 +3158,7 @@
         "expo": -8,
         "maxLatency": 0,
         "minPub": 255,
-        "publishers": [
-          "HUZu4xMSHbxTWbkXR6jkGdjvDPJLjrpSNXSoUFBRgjWs"
-        ]
+        "publishers": []
       }
     ]
   },
@@ -3302,7 +3285,19 @@
         "maxLatency": 0,
         "minPub": 255,
         "publishers": [
-          "HUZu4xMSHbxTWbkXR6jkGdjvDPJLjrpSNXSoUFBRgjWs"
+          "2ehFijXkacypZL4jdfPm38BJnMKsN2nMHm8xekbujjdx",
+          "3ZoSb6GSxzhkhy6muoRvPukUCzHnN7dwVhXNda2WDsDX",
+          "4dxDjABzLZQauxReFWpBdXZdgCi9P4W47w1xfLHrSzM5",
+          "6DNocjFJjocPLZnKBZyEJAC5o2QaiT5Mx8AkphfxDm5i",
+          "6GNiLfQpsKD2XXUGu5pTXrhufxdZWMFTfw5WoT9xN3G6",
+          "89ijemG1TUL2kdV2RtCrhXzY5QhyKHsWqCmP5iobvLUF",
+          "9eUcYPYkzVHSn9bNQTJ6XCXzMH415v8eYygwzhcFskpk",
+          "9Shm3gXvtFpm68iUzmNtMvWBsZw62TJhVQykSqgwbpkz",
+          "B1HARXoPkKxEQ3U3ce7VDNvSesLP73JMm7XX5xZULTk7",
+          "CQbGEAf2VCKmArhtnNKw1LoqQVZ4k36DEBZrrB8G8DDt",
+          "EJT2CiSFR84yoVtqfB1LVC79MSS1wyZggaV6LHJB5nS2",
+          "FR19oB2ePko2haah8yP4fhTycxitxkVQTxk3tssxX1Ce",
+          "niC3mUrbXngb546BdCVi7FFDZyEtiDiSAFXGtH2vicW"
         ]
       }
     ]
@@ -3323,9 +3318,7 @@
         "expo": -8,
         "maxLatency": 0,
         "minPub": 255,
-        "publishers": [
-          "HUZu4xMSHbxTWbkXR6jkGdjvDPJLjrpSNXSoUFBRgjWs"
-        ]
+        "publishers": []
       }
     ]
   },
@@ -3504,9 +3497,7 @@
         "expo": -10,
         "maxLatency": 0,
         "minPub": 255,
-        "publishers": [
-          "HUZu4xMSHbxTWbkXR6jkGdjvDPJLjrpSNXSoUFBRgjWs"
-        ]
+        "publishers": []
       }
     ]
   },
@@ -4603,14 +4594,13 @@
         "address": "BYDQ6js6ZAoEbWi2H8FGyYdT9pDAKEwNtXvgMQ4tYvw9",
         "expo": -8,
         "maxLatency": 0,
-        "minPub": 255,
+        "minPub": 3,
         "publishers": [
           "2ehFijXkacypZL4jdfPm38BJnMKsN2nMHm8xekbujjdx",
           "2mTD1b3ZG3YL86DgnPm4hwEQQZPej8D6Vb4pRso1RFJi",
           "2uQg5GtwXkELTha6XGA7dR6GhXbAwuA3CsLXWtsjHNpj",
           "3ZoSb6GSxzhkhy6muoRvPukUCzHnN7dwVhXNda2WDsDX",
           "4dxDjABzLZQauxReFWpBdXZdgCi9P4W47w1xfLHrSzM5",
-          "4FQAo2fJDJKWjdYRLQ5f85Mdnc56yg4YDqVsbUeVhbkz",
           "4Y3NV1TJFPdkKSPGZJqBZXSEygLtDgFKueco8324mxfV",
           "5gUgQX5XLjXqvQup4WRLqBdAXpx8zyxtXZkWS9qHsziD",
           "5YXnWX6Mmd8hp7fCpAB3wQUrHt6WtjJrA5QjmBuySsDP",
@@ -4624,30 +4614,22 @@
           "A7ULyKhnyCW3yfSNCiHCt7gUEMVwYBeRdgYKV1BRYPVH",
           "AGaSHpDpyveuLyiaocNXMMFCf1LCBBynyaKMJkL8AKK4",
           "ANaHtYzg9kKx9JZbiivAGgqvdX5fGNrGx2HTA9fkSSWX",
-          "APH9NBrM2KkUZmzCeD4Hj1BuuKYjf4TaXMwMvnJ3tWkh",
           "AvUa72rpX4kqSD1QmZcp1XcV24KwH55Txp1qFHJW1DUL",
           "B1HARXoPkKxEQ3U3ce7VDNvSesLP73JMm7XX5xZULTk7",
           "Ca6K4GsFtVpd2mJuEXER8HqNJYXh1YbB8PWP9LruTcVT",
           "CfVkYofcLC1iVBcYFzgdYPeiX25SVRmWvBQVHorP1A3y",
           "CQbGEAf2VCKmArhtnNKw1LoqQVZ4k36DEBZrrB8G8DDt",
           "D68ZFycNR6H4A79puYfZpE1j8LZQeP9SXTukF3dSUby4",
-          "DANa2ZYtyUcSW8W8C25ZfscKdBra53npt2frmh7fUucf",
           "DgAK7fPveidN72LCwCF4QjFcYHchBZbtZnjEAtgU1bMX",
           "DTimbkrssEMaQEPiLC5SmbverSbcEQXJsN7GGxYFfdgo",
           "E266tazgjHDYrqkFtdDKiiCxpgL9Msve4faUgk98XESZ",
-          "EJT2CiSFR84yoVtqfB1LVC79MSS1wyZggaV6LHJB5nS2",
-          "EKZYBqisdcsn3shN1rQRuWTzH3iqMbj1dxFtDFmrBi8o",
           "FBpNUB6YkYSoDhaSdyPnU8966Kp2FPTp2rGKaqXK1zwR",
-          "FFEezX3o5X7LttNo8EVHev96yE8mGiU83ni168Cr5nu2",
           "FMBcBujRgVW19pe43WBY5mwnVM757C7ybWT4t6MxRXXv",
           "FMyhZGgD6QXoMpKdxTLJVpunWUpcvELEmMQihqHmwTjp",
-          "FR19oB2ePko2haah8yP4fhTycxitxkVQTxk3tssxX1Ce",
           "GdHd8HjqX3we9WcKth1HkHUD9r8kCSSYuFfR1sb1v3nH",
           "GGUNPj6zcoqsjNh98dR4PcamsaKFqGKJyjMco92Cs4BA",
           "GUcFC3NBuVSf9rdQqW3t2sBcP6sEp269rtPxxGyvAHoM",
           "H2ViysxKfEYSWaK3fbdYeJvsr325z6u7kwm5sVwjfSoN",
-          "HUZu4xMSHbxTWbkXR6jkGdjvDPJLjrpSNXSoUFBRgjWs",
-          "JTmFx5zX9mM94itfk2nQcJnQQDPjcv4UPD7SYj6xDCV",
           "niC3mUrbXngb546BdCVi7FFDZyEtiDiSAFXGtH2vicW",
           "UZZ1sH1jvTV5QPHtRcsA6inURuSoD5UFT6a2RBTNvXr"
         ]
@@ -5168,9 +5150,7 @@
         "expo": -8,
         "maxLatency": 0,
         "minPub": 255,
-        "publishers": [
-          "HUZu4xMSHbxTWbkXR6jkGdjvDPJLjrpSNXSoUFBRgjWs"
-        ]
+        "publishers": []
       }
     ]
   },
@@ -5455,9 +5435,7 @@
         "expo": -8,
         "maxLatency": 0,
         "minPub": 255,
-        "publishers": [
-          "HUZu4xMSHbxTWbkXR6jkGdjvDPJLjrpSNXSoUFBRgjWs"
-        ]
+        "publishers": []
       }
     ]
   },
@@ -5477,9 +5455,7 @@
         "expo": -8,
         "maxLatency": 0,
         "minPub": 255,
-        "publishers": [
-          "HUZu4xMSHbxTWbkXR6jkGdjvDPJLjrpSNXSoUFBRgjWs"
-        ]
+        "publishers": []
       }
     ]
   },
@@ -5499,9 +5475,7 @@
         "expo": -8,
         "maxLatency": 0,
         "minPub": 255,
-        "publishers": [
-          "HUZu4xMSHbxTWbkXR6jkGdjvDPJLjrpSNXSoUFBRgjWs"
-        ]
+        "publishers": []
       }
     ]
   },
@@ -5521,9 +5495,7 @@
         "expo": -8,
         "maxLatency": 0,
         "minPub": 255,
-        "publishers": [
-          "HUZu4xMSHbxTWbkXR6jkGdjvDPJLjrpSNXSoUFBRgjWs"
-        ]
+        "publishers": []
       }
     ]
   },
@@ -5543,9 +5515,7 @@
         "expo": -8,
         "maxLatency": 0,
         "minPub": 255,
-        "publishers": [
-          "HUZu4xMSHbxTWbkXR6jkGdjvDPJLjrpSNXSoUFBRgjWs"
-        ]
+        "publishers": []
       }
     ]
   },
@@ -5565,9 +5535,7 @@
         "expo": -8,
         "maxLatency": 0,
         "minPub": 255,
-        "publishers": [
-          "HUZu4xMSHbxTWbkXR6jkGdjvDPJLjrpSNXSoUFBRgjWs"
-        ]
+        "publishers": []
       }
     ]
   },
@@ -5587,9 +5555,7 @@
         "expo": -8,
         "maxLatency": 0,
         "minPub": 255,
-        "publishers": [
-          "HUZu4xMSHbxTWbkXR6jkGdjvDPJLjrpSNXSoUFBRgjWs"
-        ]
+        "publishers": []
       }
     ]
   },
@@ -5609,9 +5575,7 @@
         "expo": -8,
         "maxLatency": 0,
         "minPub": 255,
-        "publishers": [
-          "HUZu4xMSHbxTWbkXR6jkGdjvDPJLjrpSNXSoUFBRgjWs"
-        ]
+        "publishers": []
       }
     ]
   },
@@ -5631,9 +5595,7 @@
         "expo": -8,
         "maxLatency": 0,
         "minPub": 255,
-        "publishers": [
-          "HUZu4xMSHbxTWbkXR6jkGdjvDPJLjrpSNXSoUFBRgjWs"
-        ]
+        "publishers": []
       }
     ]
   },
@@ -5653,9 +5615,7 @@
         "expo": -8,
         "maxLatency": 0,
         "minPub": 255,
-        "publishers": [
-          "HUZu4xMSHbxTWbkXR6jkGdjvDPJLjrpSNXSoUFBRgjWs"
-        ]
+        "publishers": []
       }
     ]
   },
@@ -5675,9 +5635,7 @@
         "expo": -8,
         "maxLatency": 0,
         "minPub": 255,
-        "publishers": [
-          "HUZu4xMSHbxTWbkXR6jkGdjvDPJLjrpSNXSoUFBRgjWs"
-        ]
+        "publishers": []
       }
     ]
   },
@@ -5697,9 +5655,7 @@
         "expo": -8,
         "maxLatency": 0,
         "minPub": 255,
-        "publishers": [
-          "HUZu4xMSHbxTWbkXR6jkGdjvDPJLjrpSNXSoUFBRgjWs"
-        ]
+        "publishers": []
       }
     ]
   },
@@ -5719,9 +5675,7 @@
         "expo": -8,
         "maxLatency": 0,
         "minPub": 255,
-        "publishers": [
-          "HUZu4xMSHbxTWbkXR6jkGdjvDPJLjrpSNXSoUFBRgjWs"
-        ]
+        "publishers": []
       }
     ]
   },
@@ -5741,9 +5695,7 @@
         "expo": -8,
         "maxLatency": 0,
         "minPub": 255,
-        "publishers": [
-          "HUZu4xMSHbxTWbkXR6jkGdjvDPJLjrpSNXSoUFBRgjWs"
-        ]
+        "publishers": []
       }
     ]
   },
@@ -5763,9 +5715,7 @@
         "expo": -8,
         "maxLatency": 0,
         "minPub": 255,
-        "publishers": [
-          "HUZu4xMSHbxTWbkXR6jkGdjvDPJLjrpSNXSoUFBRgjWs"
-        ]
+        "publishers": []
       }
     ]
   },
@@ -5785,9 +5735,7 @@
         "expo": -8,
         "maxLatency": 0,
         "minPub": 255,
-        "publishers": [
-          "HUZu4xMSHbxTWbkXR6jkGdjvDPJLjrpSNXSoUFBRgjWs"
-        ]
+        "publishers": []
       }
     ]
   },
@@ -5807,9 +5755,7 @@
         "expo": -8,
         "maxLatency": 0,
         "minPub": 255,
-        "publishers": [
-          "HUZu4xMSHbxTWbkXR6jkGdjvDPJLjrpSNXSoUFBRgjWs"
-        ]
+        "publishers": []
       }
     ]
   },
@@ -5829,9 +5775,7 @@
         "expo": -8,
         "maxLatency": 0,
         "minPub": 255,
-        "publishers": [
-          "HUZu4xMSHbxTWbkXR6jkGdjvDPJLjrpSNXSoUFBRgjWs"
-        ]
+        "publishers": []
       }
     ]
   },
@@ -5851,9 +5795,7 @@
         "expo": -8,
         "maxLatency": 0,
         "minPub": 255,
-        "publishers": [
-          "HUZu4xMSHbxTWbkXR6jkGdjvDPJLjrpSNXSoUFBRgjWs"
-        ]
+        "publishers": []
       }
     ]
   },
@@ -5873,9 +5815,7 @@
         "expo": -8,
         "maxLatency": 0,
         "minPub": 255,
-        "publishers": [
-          "HUZu4xMSHbxTWbkXR6jkGdjvDPJLjrpSNXSoUFBRgjWs"
-        ]
+        "publishers": []
       }
     ]
   },
@@ -5895,9 +5835,7 @@
         "expo": -8,
         "maxLatency": 0,
         "minPub": 255,
-        "publishers": [
-          "HUZu4xMSHbxTWbkXR6jkGdjvDPJLjrpSNXSoUFBRgjWs"
-        ]
+        "publishers": []
       }
     ]
   },
@@ -5917,9 +5855,7 @@
         "expo": -8,
         "maxLatency": 0,
         "minPub": 255,
-        "publishers": [
-          "HUZu4xMSHbxTWbkXR6jkGdjvDPJLjrpSNXSoUFBRgjWs"
-        ]
+        "publishers": []
       }
     ]
   },
@@ -5939,9 +5875,7 @@
         "expo": -8,
         "maxLatency": 0,
         "minPub": 255,
-        "publishers": [
-          "HUZu4xMSHbxTWbkXR6jkGdjvDPJLjrpSNXSoUFBRgjWs"
-        ]
+        "publishers": []
       }
     ]
   },
@@ -5961,9 +5895,7 @@
         "expo": -8,
         "maxLatency": 0,
         "minPub": 255,
-        "publishers": [
-          "HUZu4xMSHbxTWbkXR6jkGdjvDPJLjrpSNXSoUFBRgjWs"
-        ]
+        "publishers": []
       }
     ]
   },
@@ -5983,9 +5915,7 @@
         "expo": -8,
         "maxLatency": 0,
         "minPub": 255,
-        "publishers": [
-          "HUZu4xMSHbxTWbkXR6jkGdjvDPJLjrpSNXSoUFBRgjWs"
-        ]
+        "publishers": []
       }
     ]
   },
@@ -6005,9 +5935,7 @@
         "expo": -8,
         "maxLatency": 0,
         "minPub": 255,
-        "publishers": [
-          "HUZu4xMSHbxTWbkXR6jkGdjvDPJLjrpSNXSoUFBRgjWs"
-        ]
+        "publishers": []
       }
     ]
   },
@@ -6027,9 +5955,7 @@
         "expo": -8,
         "maxLatency": 0,
         "minPub": 255,
-        "publishers": [
-          "HUZu4xMSHbxTWbkXR6jkGdjvDPJLjrpSNXSoUFBRgjWs"
-        ]
+        "publishers": []
       }
     ]
   },
@@ -6407,9 +6333,7 @@
         "expo": -8,
         "maxLatency": 0,
         "minPub": 255,
-        "publishers": [
-          "HUZu4xMSHbxTWbkXR6jkGdjvDPJLjrpSNXSoUFBRgjWs"
-        ]
+        "publishers": []
       }
     ]
   },
@@ -6429,9 +6353,7 @@
         "expo": -8,
         "maxLatency": 0,
         "minPub": 255,
-        "publishers": [
-          "HUZu4xMSHbxTWbkXR6jkGdjvDPJLjrpSNXSoUFBRgjWs"
-        ]
+        "publishers": []
       }
     ]
   },
@@ -6893,9 +6815,7 @@
         "expo": -8,
         "maxLatency": 0,
         "minPub": 255,
-        "publishers": [
-          "HUZu4xMSHbxTWbkXR6jkGdjvDPJLjrpSNXSoUFBRgjWs"
-        ]
+        "publishers": []
       }
     ]
   },
@@ -7072,9 +6992,7 @@
         "expo": -10,
         "maxLatency": 0,
         "minPub": 255,
-        "publishers": [
-          "HUZu4xMSHbxTWbkXR6jkGdjvDPJLjrpSNXSoUFBRgjWs"
-        ]
+        "publishers": []
       }
     ]
   },
@@ -7771,9 +7689,7 @@
         "expo": -8,
         "maxLatency": 0,
         "minPub": 255,
-        "publishers": [
-          "HUZu4xMSHbxTWbkXR6jkGdjvDPJLjrpSNXSoUFBRgjWs"
-        ]
+        "publishers": []
       }
     ]
   },
@@ -8107,9 +8023,7 @@
         "expo": -8,
         "maxLatency": 0,
         "minPub": 255,
-        "publishers": [
-          "HUZu4xMSHbxTWbkXR6jkGdjvDPJLjrpSNXSoUFBRgjWs"
-        ]
+        "publishers": []
       }
     ]
   },
@@ -10290,9 +10204,7 @@
         "expo": -8,
         "maxLatency": 0,
         "minPub": 255,
-        "publishers": [
-          "HUZu4xMSHbxTWbkXR6jkGdjvDPJLjrpSNXSoUFBRgjWs"
-        ]
+        "publishers": []
       }
     ]
   },
@@ -10448,7 +10360,6 @@
           "GGUNPj6zcoqsjNh98dR4PcamsaKFqGKJyjMco92Cs4BA",
           "GUcFC3NBuVSf9rdQqW3t2sBcP6sEp269rtPxxGyvAHoM",
           "H2ViysxKfEYSWaK3fbdYeJvsr325z6u7kwm5sVwjfSoN",
-          "HUZu4xMSHbxTWbkXR6jkGdjvDPJLjrpSNXSoUFBRgjWs",
           "JTmFx5zX9mM94itfk2nQcJnQQDPjcv4UPD7SYj6xDCV",
           "niC3mUrbXngb546BdCVi7FFDZyEtiDiSAFXGtH2vicW",
           "pyq7ySiH5RvKteu2vdXKC7SNyNDp9vNDkGXdHxSpPtu",
@@ -10737,9 +10648,7 @@
         "expo": -8,
         "maxLatency": 0,
         "minPub": 255,
-        "publishers": [
-          "HUZu4xMSHbxTWbkXR6jkGdjvDPJLjrpSNXSoUFBRgjWs"
-        ]
+        "publishers": []
       }
     ]
   },
@@ -11447,9 +11356,7 @@
         "expo": -8,
         "maxLatency": 0,
         "minPub": 255,
-        "publishers": [
-          "HUZu4xMSHbxTWbkXR6jkGdjvDPJLjrpSNXSoUFBRgjWs"
-        ]
+        "publishers": []
       }
     ]
   },
@@ -11734,9 +11641,7 @@
         "expo": -8,
         "maxLatency": 0,
         "minPub": 255,
-        "publishers": [
-          "HUZu4xMSHbxTWbkXR6jkGdjvDPJLjrpSNXSoUFBRgjWs"
-        ]
+        "publishers": []
       }
     ]
   },
@@ -12992,9 +12897,7 @@
         "expo": -8,
         "maxLatency": 0,
         "minPub": 255,
-        "publishers": [
-          "HUZu4xMSHbxTWbkXR6jkGdjvDPJLjrpSNXSoUFBRgjWs"
-        ]
+        "publishers": []
       }
     ]
   },
@@ -13014,9 +12917,7 @@
         "expo": -8,
         "maxLatency": 0,
         "minPub": 255,
-        "publishers": [
-          "HUZu4xMSHbxTWbkXR6jkGdjvDPJLjrpSNXSoUFBRgjWs"
-        ]
+        "publishers": []
       }
     ]
   },
@@ -14547,9 +14448,7 @@
         "expo": -8,
         "maxLatency": 0,
         "minPub": 255,
-        "publishers": [
-          "HUZu4xMSHbxTWbkXR6jkGdjvDPJLjrpSNXSoUFBRgjWs"
-        ]
+        "publishers": []
       }
     ]
   },
@@ -14937,9 +14836,7 @@
         "expo": -8,
         "maxLatency": 0,
         "minPub": 255,
-        "publishers": [
-          "HUZu4xMSHbxTWbkXR6jkGdjvDPJLjrpSNXSoUFBRgjWs"
-        ]
+        "publishers": []
       }
     ]
   },
@@ -15230,7 +15127,6 @@
           "GGUNPj6zcoqsjNh98dR4PcamsaKFqGKJyjMco92Cs4BA",
           "GUcFC3NBuVSf9rdQqW3t2sBcP6sEp269rtPxxGyvAHoM",
           "H2ViysxKfEYSWaK3fbdYeJvsr325z6u7kwm5sVwjfSoN",
-          "HUZu4xMSHbxTWbkXR6jkGdjvDPJLjrpSNXSoUFBRgjWs",
           "JTmFx5zX9mM94itfk2nQcJnQQDPjcv4UPD7SYj6xDCV",
           "niC3mUrbXngb546BdCVi7FFDZyEtiDiSAFXGtH2vicW",
           "pyq7ySiH5RvKteu2vdXKC7SNyNDp9vNDkGXdHxSpPtu",
@@ -15255,9 +15151,7 @@
         "expo": -8,
         "maxLatency": 0,
         "minPub": 255,
-        "publishers": [
-          "HUZu4xMSHbxTWbkXR6jkGdjvDPJLjrpSNXSoUFBRgjWs"
-        ]
+        "publishers": []
       }
     ]
   },
@@ -15646,9 +15540,7 @@
         "expo": -8,
         "maxLatency": 0,
         "minPub": 255,
-        "publishers": [
-          "HUZu4xMSHbxTWbkXR6jkGdjvDPJLjrpSNXSoUFBRgjWs"
-        ]
+        "publishers": []
       }
     ]
   },
@@ -15668,9 +15560,7 @@
         "expo": -8,
         "maxLatency": 0,
         "minPub": 255,
-        "publishers": [
-          "HUZu4xMSHbxTWbkXR6jkGdjvDPJLjrpSNXSoUFBRgjWs"
-        ]
+        "publishers": []
       }
     ]
   },
@@ -15690,9 +15580,7 @@
         "expo": -8,
         "maxLatency": 0,
         "minPub": 255,
-        "publishers": [
-          "HUZu4xMSHbxTWbkXR6jkGdjvDPJLjrpSNXSoUFBRgjWs"
-        ]
+        "publishers": []
       }
     ]
   },
@@ -15870,9 +15758,7 @@
         "expo": -8,
         "maxLatency": 0,
         "minPub": 255,
-        "publishers": [
-          "HUZu4xMSHbxTWbkXR6jkGdjvDPJLjrpSNXSoUFBRgjWs"
-        ]
+        "publishers": []
       }
     ]
   },
@@ -15892,9 +15778,7 @@
         "expo": -8,
         "maxLatency": 0,
         "minPub": 255,
-        "publishers": [
-          "HUZu4xMSHbxTWbkXR6jkGdjvDPJLjrpSNXSoUFBRgjWs"
-        ]
+        "publishers": []
       }
     ]
   },
@@ -15914,9 +15798,7 @@
         "expo": -8,
         "maxLatency": 0,
         "minPub": 255,
-        "publishers": [
-          "HUZu4xMSHbxTWbkXR6jkGdjvDPJLjrpSNXSoUFBRgjWs"
-        ]
+        "publishers": []
       }
     ]
   },
@@ -16039,9 +15921,7 @@
         "expo": -8,
         "maxLatency": 0,
         "minPub": 255,
-        "publishers": [
-          "HUZu4xMSHbxTWbkXR6jkGdjvDPJLjrpSNXSoUFBRgjWs"
-        ]
+        "publishers": []
       }
     ]
   },
@@ -16165,9 +16045,7 @@
         "expo": -8,
         "maxLatency": 0,
         "minPub": 255,
-        "publishers": [
-          "HUZu4xMSHbxTWbkXR6jkGdjvDPJLjrpSNXSoUFBRgjWs"
-        ]
+        "publishers": []
       }
     ]
   },
@@ -16679,9 +16557,7 @@
         "expo": -8,
         "maxLatency": 0,
         "minPub": 255,
-        "publishers": [
-          "HUZu4xMSHbxTWbkXR6jkGdjvDPJLjrpSNXSoUFBRgjWs"
-        ]
+        "publishers": []
       }
     ]
   },
@@ -17266,9 +17142,7 @@
         "expo": -8,
         "maxLatency": 0,
         "minPub": 255,
-        "publishers": [
-          "HUZu4xMSHbxTWbkXR6jkGdjvDPJLjrpSNXSoUFBRgjWs"
-        ]
+        "publishers": []
       }
     ]
   },
@@ -17574,7 +17448,19 @@
         "maxLatency": 0,
         "minPub": 255,
         "publishers": [
-          "HUZu4xMSHbxTWbkXR6jkGdjvDPJLjrpSNXSoUFBRgjWs"
+          "2ehFijXkacypZL4jdfPm38BJnMKsN2nMHm8xekbujjdx",
+          "3ZoSb6GSxzhkhy6muoRvPukUCzHnN7dwVhXNda2WDsDX",
+          "4dxDjABzLZQauxReFWpBdXZdgCi9P4W47w1xfLHrSzM5",
+          "5gUgQX5XLjXqvQup4WRLqBdAXpx8zyxtXZkWS9qHsziD",
+          "5YXnWX6Mmd8hp7fCpAB3wQUrHt6WtjJrA5QjmBuySsDP",
+          "6GNiLfQpsKD2XXUGu5pTXrhufxdZWMFTfw5WoT9xN3G6",
+          "89ijemG1TUL2kdV2RtCrhXzY5QhyKHsWqCmP5iobvLUF",
+          "B1HARXoPkKxEQ3U3ce7VDNvSesLP73JMm7XX5xZULTk7",
+          "CfVkYofcLC1iVBcYFzgdYPeiX25SVRmWvBQVHorP1A3y",
+          "CQbGEAf2VCKmArhtnNKw1LoqQVZ4k36DEBZrrB8G8DD",
+          "EJT2CiSFR84yoVtqfB1LVC79MSS1wyZggaV6LHJB5nS2",
+          "FR19oB2ePko2haah8yP4fhTycxitxkVQTxk3tssxX1Ce",
+          "niC3mUrbXngb546BdCVi7FFDZyEtiDiSAFXGtH2vicW"
         ]
       }
     ]
@@ -17959,9 +17845,7 @@
         "expo": -8,
         "maxLatency": 0,
         "minPub": 255,
-        "publishers": [
-          "HUZu4xMSHbxTWbkXR6jkGdjvDPJLjrpSNXSoUFBRgjWs"
-        ]
+        "publishers": []
       }
     ]
   },
@@ -18086,9 +17970,7 @@
         "expo": -8,
         "maxLatency": 0,
         "minPub": 255,
-        "publishers": [
-          "HUZu4xMSHbxTWbkXR6jkGdjvDPJLjrpSNXSoUFBRgjWs"
-        ]
+        "publishers": []
       }
     ]
   },
@@ -18108,9 +17990,7 @@
         "expo": -8,
         "maxLatency": 0,
         "minPub": 255,
-        "publishers": [
-          "HUZu4xMSHbxTWbkXR6jkGdjvDPJLjrpSNXSoUFBRgjWs"
-        ]
+        "publishers": []
       }
     ]
   },
@@ -18236,9 +18116,7 @@
         "expo": -8,
         "maxLatency": 0,
         "minPub": 255,
-        "publishers": [
-          "HUZu4xMSHbxTWbkXR6jkGdjvDPJLjrpSNXSoUFBRgjWs"
-        ]
+        "publishers": []
       }
     ]
   },
@@ -19688,9 +19566,7 @@
         "expo": -8,
         "maxLatency": 0,
         "minPub": 255,
-        "publishers": [
-          "HUZu4xMSHbxTWbkXR6jkGdjvDPJLjrpSNXSoUFBRgjWs"
-        ]
+        "publishers": []
       }
     ]
   },
@@ -20308,9 +20184,7 @@
         "expo": -5,
         "maxLatency": 0,
         "minPub": 255,
-        "publishers": [
-          "HUZu4xMSHbxTWbkXR6jkGdjvDPJLjrpSNXSoUFBRgjWs"
-        ]
+        "publishers": []
       }
     ]
   },
@@ -20331,9 +20205,7 @@
         "expo": -5,
         "maxLatency": 0,
         "minPub": 255,
-        "publishers": [
-          "HUZu4xMSHbxTWbkXR6jkGdjvDPJLjrpSNXSoUFBRgjWs"
-        ]
+        "publishers": []
       }
     ]
   },
@@ -20355,7 +20227,15 @@
         "maxLatency": 0,
         "minPub": 255,
         "publishers": [
-          "HUZu4xMSHbxTWbkXR6jkGdjvDPJLjrpSNXSoUFBRgjWs"
+          "2ehFijXkacypZL4jdfPm38BJnMKsN2nMHm8xekbujjdx",
+          "3ZoSb6GSxzhkhy6muoRvPukUCzHnN7dwVhXNda2WDsDX",
+          "4dxDjABzLZQauxReFWpBdXZdgCi9P4W47w1xfLHrSzM5",
+          "6DNocjFJjocPLZnKBZyEJAC5o2QaiT5Mx8AkphfxDm5i",
+          "6GNiLfQpsKD2XXUGu5pTXrhufxdZWMFTfw5WoT9xN3G6",
+          "CfVkYofcLC1iVBcYFzgdYPeiX25SVRmWvBQVHorP1A3y",
+          "DTimbkrssEMaQEPiLC5SmbverSbcEQXJsN7GGxYFfdgo",
+          "E266tazgjHDYrqkFtdDKiiCxpgL9Msve4faUgk98XESZ",
+          "FR19oB2ePko2haah8yP4fhTycxitxkVQTxk3tssxX1Ce"
         ]
       }
     ]
@@ -20378,7 +20258,17 @@
         "maxLatency": 0,
         "minPub": 255,
         "publishers": [
-          "HUZu4xMSHbxTWbkXR6jkGdjvDPJLjrpSNXSoUFBRgjWs"
+          "2ehFijXkacypZL4jdfPm38BJnMKsN2nMHm8xekbujjdx",
+          "3ZoSb6GSxzhkhy6muoRvPukUCzHnN7dwVhXNda2WDsDX",
+          "6DNocjFJjocPLZnKBZyEJAC5o2QaiT5Mx8AkphfxDm5i",
+          "6GNiLfQpsKD2XXUGu5pTXrhufxdZWMFTfw5WoT9xN3G6",
+          "CfVkYofcLC1iVBcYFzgdYPeiX25SVRmWvBQVHorP1A3y",
+          "DgAK7fPveidN72LCwCF4QjFcYHchBZbtZnjEAtgU1bMX",
+          "DTimbkrssEMaQEPiLC5SmbverSbcEQXJsN7GGxYFfdgo",
+          "E266tazgjHDYrqkFtdDKiiCxpgL9Msve4faUgk98XESZ",
+          "FBpNUB6YkYSoDhaSdyPnU8966Kp2FPTp2rGKaqXK1zwR",
+          "FR19oB2ePko2haah8yP4fhTycxitxkVQTxk3tssxX1Ce",
+          "UZZ1sH1jvTV5QPHtRcsA6inURuSoD5UFT6a2RBTNvXr"
         ]
       }
     ]
@@ -20399,9 +20289,7 @@
         "expo": -5,
         "maxLatency": 0,
         "minPub": 255,
-        "publishers": [
-          "HUZu4xMSHbxTWbkXR6jkGdjvDPJLjrpSNXSoUFBRgjWs"
-        ]
+        "publishers": []
       }
     ]
   },
@@ -20421,9 +20309,7 @@
         "expo": -5,
         "maxLatency": 0,
         "minPub": 255,
-        "publishers": [
-          "HUZu4xMSHbxTWbkXR6jkGdjvDPJLjrpSNXSoUFBRgjWs"
-        ]
+        "publishers": []
       }
     ]
   },
@@ -23167,9 +23053,7 @@
         "expo": -5,
         "maxLatency": 0,
         "minPub": 255,
-        "publishers": [
-          "HUZu4xMSHbxTWbkXR6jkGdjvDPJLjrpSNXSoUFBRgjWs"
-        ]
+        "publishers": []
       }
     ]
   },
@@ -23862,9 +23746,7 @@
         "expo": -5,
         "maxLatency": 0,
         "minPub": 255,
-        "publishers": [
-          "HUZu4xMSHbxTWbkXR6jkGdjvDPJLjrpSNXSoUFBRgjWs"
-        ]
+        "publishers": []
       }
     ]
   },
